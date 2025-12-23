@@ -1,0 +1,22 @@
+[
+  {
+    "employee_id": "emp_001",
+    "first_name": "John",
+    "last_name": "Smith",
+    "department": "IT",
+    "salary": 5000,
+    "language": "English",
+    "hire_date": "2020-05-15",
+    "position_level": "Senior"
+  },
+  {
+    "employee_id": "emp_003",
+    "first_name": "Pierre",
+    "last_name": "Dubois",
+    "department": "Finance",
+    "salary": 4500,
+    "language": "French",
+    "hire_date": "2019-11-10",
+    "position_level": "Senior"
+  }
+]

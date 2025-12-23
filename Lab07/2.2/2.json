@@ -1,0 +1,9 @@
+{
+  "employees": [
+    {"employee_id": "emp_001", "first_name": "John", "last_name": "Smith", "department": "IT", "salary": 5000, "language": "English", "hire_date": "2020-05-15", "position_level": "Senior"},
+    {"employee_id": "emp_002", "first_name": "Anna", "last_name": "Müller", "department": "HR", "salary": 4000, "language": "German", "hire_date": "2021-03-20", "position_level": "Middle"},
+    {"employee_id": "emp_003", "first_name": "Pierre", "last_name": "Dubois", "department": "Finance", "salary": 4500, "language": "French", "hire_date": "2019-11-10", "position_level": "Senior"},
+    {"employee_id": "emp_004", "first_name": "Maria", "last_name": "Rossi", "department": "Marketing", "salary": 3800, "language": "Italian", "hire_date": "2022-01-08", "position_level": "Junior"},
+    {"employee_id": "emp_005", "first_name": "Carlos", "last_name": "Garcia", "department": "Sales", "salary": 4200, "language": "Spanish", "hire_date": "2020-09-12", "position_level": "Middle"}
+  ]
+}

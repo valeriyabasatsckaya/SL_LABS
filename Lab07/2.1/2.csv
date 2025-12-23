@@ -1,0 +1,26 @@
+OrderID,CustomerName,Product,Quantity,Price,Country
+ORD001,Ivanov A.S.,Laptop Lenovo,1,45000,Russia
+ORD002,Petrova M.I.,Smartphone iPhone,2,89990,USA
+ORD003,Sidorov V.P.,Headphones Sony,1,12000,Germany
+ORD004,Kozlova E.A.,Tablet Samsung,1,32000,France
+ORD005,Nikitin P.O.,Monitor Dell,3,25000,UK
+ORD006,Frolov D.M.,Keyboard Logitech,5,4500,Canada
+ORD007,Orlova S.V.,Mouse Razer,2,6000,Japan
+ORD008,Volkov A.P.,Printer HP,1,18000,Australia
+ORD009,Lebedeva N.K.,Scanner Canon,1,15000,Italy
+ORD010,Sokolov I.L.,Web Camera,4,3500,Spain
+ORD011,Novikov R.M.,Hard Drive,2,8000,Brazil
+ORD012,Morozova T.P.,RAM Memory,10,4000,China
+ORD013,Pavlov K.A.,Video Card,1,55000,South Korea
+ORD014,Semenova L.D.,Motherboard,1,12000,India
+ORD015,Grigoriev M.S.,Power Supply,3,7000,Mexico
+ORD016,Kovaleva A.V.,Computer Case,2,5000,Netherlands
+ORD017,Belov S.N.,CPU Cooler,6,3000,Sweden
+ORD018,Mikhailov P.R.,SSD Drive,4,6000,Switzerland
+ORD019,Alekseeva V.M.,UPS,1,9000,Norway
+ORD020,Yakovlev D.A.,Multifunction Printer,1,22000,Denmark
+ORD021,Zakharova E.P.,Graphics Tablet,1,15000,Poland
+ORD022,Stepanov A.K.,Microphone,3,5000,Czech Republic
+ORD023,Medvedeva I.S.,Speakers JBL,2,8000,Hungary
+ORD024,Egorov V.L.,Router TP-Link,4,3500,Finland
+ORD025,Kuznetsova O.M.,Gaming Console,1,35000,Belgium
